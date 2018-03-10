@@ -18,6 +18,10 @@ Contract Address
 
 [0x5bcB231f86da1F5C0daa38912469A0C569061967](https://etherscan.io/address/0x5bcB231f86da1F5C0daa38912469A0C569061967)
 
+Smart Contract
+
+[0x5bcB231f86da1F5C0daa38912469A0C569061967#readContract](https://etherscan.io/token/0x5bcB231f86da1F5C0daa38912469A0C569061967#readContract)
+
 Contract Creator
 
 [0xcc82aa390d5467f53cb91aaa799a9a6bc898cc59](https://etherscan.io/address/0xcc82aa390d5467f53cb91aaa799a9a6bc898cc59)
