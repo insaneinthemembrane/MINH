@@ -2,7 +2,7 @@
 
 ![logo](http://explorer.vietminh.info:3001/images/logo.png)
 
-[Ho Chi Minh](https://etherscan.io/token/0x5bcB231f86da1F5C0daa38912469A0C569061967) is an ERC20 token, and related to the earlier release of HoChiMinh (MINH), a QT app. trading on Yobit Exchange
+[Ho Chi Minh](https://etherscan.io/token/0x5bcB231f86da1F5C0daa38912469A0C569061967) is an ERC20 token, and related to the earlier release of HoChiMinh (MINH), a QT app. trading on [Yobit Exchange](https://yobit.net/en/trade/MINH/BTC)
 
 -----
 
