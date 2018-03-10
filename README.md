@@ -30,6 +30,18 @@ Transaction
 
 ----
 
+# Add Ho Chi Minh to MyEtherWallet or MetaMask App
+
+To add Ho Chi Minh to your myetherwallet or metamask app use the following:
+
+Contract Address: 0x5bcB231f86da1F5C0daa38912469A0C569061967
+
+Token Symbol: MINH
+
+Decimals / Decimals of Precision: 18
+
+-----
+
 # QT Explorer Coin total
 
 ![Explorer](https://cdn.pbrd.co/images/HbgbTsa.png)
