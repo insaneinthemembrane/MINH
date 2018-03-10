@@ -4,11 +4,15 @@
 
 [Ho Chi Minh](https://etherscan.io/token/0x5bcB231f86da1F5C0daa38912469A0C569061967) is an ERC20 token, and related to the earlier release of HoChiMinh (MINH), a QT app. trading on Yobit Exchange
 
-Ho Chi Minh
+-----
+
+**Ho Chi Minh**
 
 Compiler Version: v0.4.19+commit.c4cbbb05 Optimization Enabled: 1
 
 ContractName: Ho Chi Minh
+
+-----
 
 Contract Address
 
