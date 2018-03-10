@@ -32,7 +32,7 @@ Transaction
 
 # Add Ho Chi Minh to MyEtherWallet or MetaMask App
 
-To add Ho Chi Minh to your myetherwallet or metamask app use the following:
+**To add Ho Chi Minh to your myetherwallet or metamask app use the following:**
 
 Contract Address: 
 
